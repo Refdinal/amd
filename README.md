@@ -1,1 +1,5 @@
-# Tutorial Data Analisis HR
+
+```code
+pip install -r requirements.txt
+```
+
